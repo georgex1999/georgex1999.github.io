@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee+Inline|Coda');
+
+html {
+  background-color: #282c34;
+  font-family: 'Coda', sans-serif;
+  font-size: 16px;
+}
+
+body {
+  display:flex;
+  justify-content: center;
+  color:#fff;
+}
+
+main {width:80%;}
+
+h1 { font-family: 'Bungee Inline', sans-serif;}
+
+a { color:#fff;text-decoration:none;}
+a:hover { color: orange;}
