@@ -16,5 +16,12 @@ main {width:80%;}
 
 h1 { font-family: 'Bungee Inline', sans-serif;}
 
-a { color:#fff;text-decoration:none;}
-a:hover { color: orange;}
+h2 {
+  color: orange;}
+
+a {
+  color: orange;
+  text-decoration:none;
+}
+
+a:hover { color: red;}
